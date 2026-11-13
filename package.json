@@ -1,0 +1,12 @@
+{
+  "name": "ai.cleanads.unity",
+  "version": "1.0.0",
+  "displayName": "CleanAds",
+  "description": "Rewarded and interstitial ads for Unity WebGL games in Telegram Mini Apps and on the web, from CleanAds.",
+  "unity": "2021.3",
+  "keywords": ["ads", "rewarded", "interstitial", "webgl", "telegram", "mini-app", "monetization"],
+  "author": { "name": "CleanAds", "email": "hello@cleanads.ai", "url": "https://cleanads.ai" },
+  "documentationUrl": "https://cleanads.ai/docs#unity",
+  "licensesUrl": "https://github.com/cleanads/cleanads-unity/blob/main/LICENSE.md",
+  "license": "MIT"
+}
